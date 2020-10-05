@@ -1,4 +1,5 @@
 #!/bin/bash
+#edited by soheillinux -- email-address: soheillinred@hotmail.com
 clear
 echo "INSTALLING HAPROXY V2 ON CENTOS"
 echo ""
